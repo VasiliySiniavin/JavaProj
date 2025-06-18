@@ -75,8 +75,8 @@ public class Main {
         for (int i = 0; i < array_4.length; i++) {
             System.out.println((array_4[i]));
         }
-
     }
+
 
     /*
 В методе initializeArray():
